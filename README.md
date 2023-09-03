@@ -76,4 +76,5 @@ Now go to the link in blue color which is shown on the CLI and you will be able 
 
 ## Contributions
 
-Contributions are welcome! Please open an issue or create a pull request.
+Contributions are welcome! Please open an issue or create a pull request. 
+Awesome
